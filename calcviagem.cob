@@ -20,10 +20,10 @@
        WORKING-STORAGE              SECTION.
 
       *============== VARIAVEIS DE APOIO ===============
-           77 WRK-NOME    PIC X(30) VALUE SPACE.
-           77 WRK-DESTINO PIC X(20) VALUE SPACE.
-           77 WRK-COMB   PIC 9(08)V99 VALUES ZEROES.
-           77 WRK-FINAL  PIC 9(10)V99 VALUES ZEROES.
+           77 WRK-NOME     PIC X(30)     VALUE SPACE.
+           77 WRK-DESTINO  PIC X(20)     VALUE SPACE.
+           77 WRK-COMB     PIC 9(08)V99  VALUES ZEROES.
+           77 WRK-FINAL    PIC 9(10)V99  VALUES ZEROES.
 
 
       *============== VARIAVEIS DE EDIÇAO ===============
